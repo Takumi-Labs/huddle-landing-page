@@ -18,11 +18,20 @@
 .container {
   margin: 0 auto;
   width: 50%;
+  color: var(--color-white);
   background-image: url(/images/bg-mobile.svg);
   background-color: var(--color-purple);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
+}
+
+.page-logo {
+  width: 30%;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  float: left;
+  padding-left: 15px;
 }
 
 .main-image {
@@ -49,4 +58,5 @@
   display: flex;
   width: 5%;
   margin-top: 30px;
+  padding-bottom: 30px;
 }
