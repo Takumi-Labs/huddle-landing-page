@@ -74,6 +74,15 @@ body {
   border-radius: 30px;
 }
 
+.btn:active {
+  color: var(--color-white);
+  background-color: var(--color-magenta);
+}
+
+.socials:active {
+  background-color: var(--color-magenta);
+}
+
 .socials {
   display: flex;
   width: 10%;
