@@ -1,6 +1,12 @@
 /* CUSTOM PROPERTIES
 -------------------------- */
 
+:root {
+  --color-purple: #674baf;
+  --color-magenta: #e882e8;
+  --color-white: #ffffff;
+}
+
 /* GLOBAL STYLES 
 ----------------------------- */
 *,
@@ -9,9 +15,31 @@
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
+.container {
+  margin: 0 auto;
   background-image: url(/images/bg-mobile.svg);
+  background-color: var(--color-purple);
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
+}
+
+.main-image {
+  width: 90%;
+}
+
+.main-paragraph {
+  margin-bottom: 50px;
+}
+
+.btn {
+  text-decoration: none;
+  color: var(--color-magenta);
+  background-color: var(--color-white);
+  padding: 10px 35px;
+  border-radius: 30px;
+}
+
+.socials {
+  color: var(--color-white);
 }
