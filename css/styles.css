@@ -83,12 +83,7 @@ body {
   filter: invert(1);
 }
 
-@media (min-width: 800px) {
-  /* .main-section {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  } */
-
+@media (min-width: 1110px) {
   .main-section {
     display: inline-flex;
     gap: 10px;
