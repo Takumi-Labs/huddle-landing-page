@@ -29,6 +29,10 @@
   width: 90%;
 }
 
+.main-head {
+  padding: 0 5px;
+}
+
 .main-paragraph {
   margin-bottom: 50px;
 }
