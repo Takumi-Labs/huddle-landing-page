@@ -57,13 +57,18 @@
 
 .socials {
   display: flex;
-  width: 5%;
-  margin-top: 30px;
+  width: 10%;
   padding-bottom: 30px;
+  margin: 30px auto;
+  justify-content: center;
 }
 
 @media (min-width: 800px) {
-  main {
+  .main-section {
     display: flex;
+  }
+
+  .container {
+    width: 90%;
   }
 }
