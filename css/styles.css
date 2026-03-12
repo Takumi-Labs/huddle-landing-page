@@ -41,5 +41,7 @@
 }
 
 .socials {
-  color: var(--color-white);
+  display: flex;
+  width: 5%;
+  margin-top: 30px;
 }
