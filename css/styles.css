@@ -27,7 +27,7 @@ body {
   color: var(--color-white);
   background-image: url(../images/bg-mobile.svg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   text-align: center;
 }
 
