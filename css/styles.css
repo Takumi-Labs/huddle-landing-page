@@ -123,8 +123,7 @@ body {
   padding: 8px;
 }
 
-/* TABLET & DESKTOP 
------------------------------ */
+
 @media (min-width: 768px) {
   .container {
     padding: 10px 50px;
@@ -164,7 +163,6 @@ body {
   }
 
   .btn {
-    /* padding: 15px 100px; */
     display: inline;
     padding: 12px 50px; 
   }
