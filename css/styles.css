@@ -89,7 +89,7 @@ body {
 
 .btn {
   text-decoration: none;
-  color: var(--color-magenta);
+  color: var(--color-purple);
   /* background-color: var(--color-white); */
   padding: 15px 100px;  
   margin-left: 0;
