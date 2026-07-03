@@ -90,7 +90,7 @@ body {
 .btn {
   text-decoration: none;
   color: var(--color-purple);
-  /* background-color: var(--color-white); */
+  background-color: var(--color-white); 
   padding: 15px 100px;  
   margin-left: 0;
   margin: 0 auto;       
@@ -118,7 +118,7 @@ body {
 }
 
 .social-logo {
-  /* border: 2px solid var(--color-white); */
+  border: 2px solid var(--color-white); 
   border-radius: 50px;
   padding: 8px;
 }
